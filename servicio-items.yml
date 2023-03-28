@@ -1,4 +1,5 @@
-server:
-  port: '8005'
 configuracion:
-  texto: Configurando ambiente por defecto
+  texto: Configurando entorno Desarrollo ...
+  autor:
+    nombre: Jhon Doe
+    email: jhon.doe@correo.com
